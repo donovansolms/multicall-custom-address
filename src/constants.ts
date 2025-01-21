@@ -2,7 +2,7 @@
 export const multicall2Address = "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696";
 
 // same address on all networks: https://www.multicall3.com/deployments
-export const multicall3Address = "0xcA11bde05977b3631167028862bE2a173976CA11";
+export const multicall3Address = "0x9d4454B023096f34B160D6B654540c56A1F81688";
 
 export const multicall3ZkSyncAddress = "0xF9cda624FBC7e059355ce98a31693d299FACd963";
 
