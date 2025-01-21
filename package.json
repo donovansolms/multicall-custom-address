@@ -1,5 +1,5 @@
 {
-  "name": "ethers-multicall-provider",
+  "name": "@donovansolms/ethers-multicall-provider",
   "version": "6.4.0",
   "description": "⚡🕰️ Drop-in solution to batch smart contract RPC calls in a single RPC query via Multicall!",
   "main": "lib/index.js",
